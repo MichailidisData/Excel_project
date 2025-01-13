@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This data analysis project aims to provide insights into the bike sales of 6 countries (Canada, Australia, France, Germany, United Kingdom and United States) from 2011 to 2016. By analyzing various aspects of the 
+This data analysis project aims to provide insights into the bike sales of 6 countries (Canada, Australia, France, Germany, United Kingdom and United States) from 2011 to 2016.
 
 
 
