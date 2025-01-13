@@ -17,7 +17,8 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 ## Tools
 
-- Excel 
+- Excel
+- MySQL
 
 
 
@@ -45,3 +46,8 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 - Percentage of Product Quantity
  
 ![image](https://github.com/user-attachments/assets/9b48ca60-12b4-4d86-8198-aaa12a612690)
+
+
+### Noticed that there was a huge drop on average profit between 2012 and 2013
+
+
