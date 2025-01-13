@@ -37,11 +37,13 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 - Avg Profit per Month
   
-![image](https://github.com/user-attachments/assets/459f828c-8c68-4868-85d7-80e2c51c2ed0)
+![image](https://github.com/user-attachments/assets/addd99c6-6d26-42b7-99f3-cf301776d106)
+
 
 - Avg Profit per Year and Country
 
 ![image](https://github.com/user-attachments/assets/b8714cb6-d528-4817-8db6-25b4be7c5af9)
+
 
 - Percentage of Product Quantity
  
@@ -49,6 +51,19 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 
 ### Noticed that there was a huge drop on average profit between 2012 and 2013
+
+
+SELECT Year, SUM(Order_Quantity) AS No_Orders, SUM(Profit) AS Profit, AVG(Profit) AS Avg_Profit
+FROM sales
+GROUP BY Year
+ORDER BY Year;
+
+
+SELECT Year, SUM(Order_Quantity) AS No_Orders, AVG(Unit_Cost), AVG(Unit_Price) 
+FROM sales
+GROUP BY Year
+ORDER BY Year;loading bike_sales_info.sql…]()
+
 
 [bike_sales_info1.xlsx](https://github.com/user-attachments/files/18397778/bike_sales_info1.xlsx)
 
