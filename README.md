@@ -52,18 +52,6 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 ### Noticed that there was a huge drop on average profit between 2012 and 2013
 
-
-SELECT Year, SUM(Order_Quantity) AS No_Orders, SUM(Profit) AS Profit, AVG(Profit) AS Avg_Profit
-FROM sales
-GROUP BY Year
-ORDER BY Year;
-
-
-SELECT Year, SUM(Order_Quantity) AS No_Orders, AVG(Unit_Cost), AVG(Unit_Price) 
-FROM sales
-GROUP BY Year
-ORDER BY Year;loading bike_sales_info.sql…]()
-
 ![image](https://github.com/user-attachments/assets/2ffc1d0f-fd08-4cae-ad21-54fd3cffcddb)
 
 ![image](https://github.com/user-attachments/assets/c7e5a620-3987-4ef8-b17e-7628d13fa15c)
