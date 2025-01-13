@@ -64,7 +64,6 @@ FROM sales
 GROUP BY Year
 ORDER BY Year;loading bike_sales_info.sql…]()
 
+![image](https://github.com/user-attachments/assets/2ffc1d0f-fd08-4cae-ad21-54fd3cffcddb)
 
-[bike_sales_info1.xlsx](https://github.com/user-attachments/files/18397778/bike_sales_info1.xlsx)
-
-[bike_sales_info2.xlsx](https://github.com/user-attachments/files/18397780/bike_sales_info2.xlsx)
+![image](https://github.com/user-attachments/assets/c7e5a620-3987-4ef8-b17e-7628d13fa15c)
