@@ -50,4 +50,6 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 ### Noticed that there was a huge drop on average profit between 2012 and 2013
 
+[bike_sales_info1.xlsx](https://github.com/user-attachments/files/18397778/bike_sales_info1.xlsx)
 
+[bike_sales_info2.xlsx](https://github.com/user-attachments/files/18397780/bike_sales_info2.xlsx)
