@@ -50,8 +50,11 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 ![image](https://github.com/user-attachments/assets/9b48ca60-12b4-4d86-8198-aaa12a612690)
 
 
-### Noticed that there was a huge drop on average profit between 2012 and 2013
+## Insights
+There is an almost equal proportion of sales among male (51%) and female (49%) customers.
 More revenue was generated in December, June and May compared to other months.
+Majority of customers are Adults (35–64 years), followed by Young Adults(25–34 years).
+There was a huge drop on average profit between 2012 and 2013.
 
 ![image](https://github.com/user-attachments/assets/2ffc1d0f-fd08-4cae-ad21-54fd3cffcddb)
 
