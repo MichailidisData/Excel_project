@@ -51,6 +51,7 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 
 ### Noticed that there was a huge drop on average profit between 2012 and 2013
+More revenue was generated in December, June and May compared to other months.
 
 ![image](https://github.com/user-attachments/assets/2ffc1d0f-fd08-4cae-ad21-54fd3cffcddb)
 
